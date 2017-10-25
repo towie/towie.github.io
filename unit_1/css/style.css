@@ -1,7 +1,29 @@
-body {background-color: black;
-}
-h1 {color: pink;
-}
 
-p {color: green;
-}
+#Test {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 30px;
+	} 
+
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 100px;
+	font-weight: normal;
+	font-style: italic;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	}
+
+
+p {
+	font-family: "Comic Sans MS", monospace;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: none;
+	text-align: center;
+	}
+
+
+
