@@ -2,7 +2,7 @@
 
 #test {
 	text-align: center;
-	color: #000;
+	color: #000000;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -10,43 +10,24 @@
 
 #test1 {text-decoration: underline;
 	font-size: 25px;
-	color: black;
-}
-img	{
-	width: 15%;
-
 }
 
 body {
-	background-color: red;
 	text-align: center;
-	color: #000; 
+	color: #FFF; 
+	background: url(https://dynaimage.cdn.cnn.com/cnn/w_1100,dpr_1.0,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F150226072430-03-plunge-pools.jpg);
+	background-size: cover;
 	font-family: "Arial";
 	font-size: 20px;
-	padding-left: 20px;
 
 
 }
 
 hr {color: #341298;
-	width: 40px;
+	width: 400px;
 	size: 500px; 
 }
 
 ul {text-align: centre;
 list-style-type: none;
-}
-
-header {
-	padding-left: 0px;
-	text-align: center;
-	color: #000
-}
-
-footer {text-align: center;
-		color: black;
-		background-size: initial;
-		background-color: #CCC;
-
-
 }
