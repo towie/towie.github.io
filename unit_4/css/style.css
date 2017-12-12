@@ -18,7 +18,10 @@ h1 {font-family: 'Fira Sans', sans-serif;
 	font-size: 75px;
 	color: white;
 	font-variant: small-caps;
+	text-align: center;
 	}
+
+
 
 body {
 	text-align: center;
@@ -27,15 +30,27 @@ body {
 	background-size: cover;
 	font-family: 'Arvo', Serif;
 	font-size: 20px;
+	margin: 2em auto;
+	width: 40em;
+
+}
+p {
 	line-height: 1.5em;
-
 }
 
-hr {color: #341298;
-	width: 400px;
-	size: 500px; 
+hr {
+	width: 5em;
+	border: none;
+	height: 5px;
+	background-color: #000;
 }
 
-ul {text-align: centre;
+ul {text-align: center;
 list-style-type: none;
+text-transform: uppercase;
+font-weight: bolder;
+}
+
+a {text-decoration: none;
+border-bottom: 1px solid black; 
 }
