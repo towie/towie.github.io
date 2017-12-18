@@ -54,3 +54,23 @@ font-weight: bolder;
 a {text-decoration: none;
 border-bottom: 1px solid black; 
 }
+
+header {background-color: #FFED74;
+border: 1px black solid;
+padding: 20px;
+}
+
+nav {background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px;
+}
+
+div {background-color: #FFE2B8;
+border: 1px black solid;
+padding: 20px;
+}
+
+footer {background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;
+}
