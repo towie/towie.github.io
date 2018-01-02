@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Fira+Sans');
+
+
+#test {
+	text-align: center;
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+#test1 {text-decoration: underline;
+	font-size: 30px;
+	font-family: 'Arvo', Serif;
+}
+
+h1 {font-family: 'Fira Sans', sans-serif;
+	font-size: 75px;
+	color: white;
+	font-variant: small-caps;
+	text-align: center;
+	}
+
+
+
+body {
+	text-align: center;
+	color: black; 
+	background: url(https://dynaimage.cdn.cnn.com/cnn/w_1100,dpr_1.0,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F150226072430-03-plunge-pools.jpg);
+	background-size: cover;
+	font-family: 'Arvo', Serif;
+	font-size: 20px;
+	margin: 2em auto;
+	width: 60em;
+
+}
+p {
+	line-height: 1.5em;
+}
+
+hr {
+	width: 5em;
+	border: none;
+	height: 5px;
+	background-color: #000;
+}
+
+ul {text-align: center;
+list-style-type: none;
+text-transform: uppercase;
+font-weight: bolder;
+}
+
+a {text-decoration: none;
+border-bottom: 1px solid black; 
+}
+
+header {background-color: #FFED74;
+border: 1px black solid;
+padding: 20px;
+}
+
+nav {background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px;
+}
+
+div {background-color: #FFE2B8;
+border: 1px black solid;
+padding: 20px;
+}
+
+footer {background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;
+}
+
+#two_column {background-color: #FFB7CF;
+			border: 1px black solid;
+			padding: 20px;	}
+
+#left {background-color: #E582A2;
+		border: 1px black solid;
+		padding: 20px;
+		float: left;
+		width: 30%;
+	}
+
+
+#right {background-color: #E55B88;
+		border: 1px black solid;
+		padding: 20px;
+		float: right;
+		width: 62%;
+	}
+
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
