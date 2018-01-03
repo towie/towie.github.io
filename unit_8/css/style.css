@@ -83,7 +83,7 @@ padding: 20px;
 		border: 1px black solid;
 		padding: 20px;
 		float: left;
-		width: 30%;
+		width: 35%;
 		text-align: center;
 	}
 
@@ -92,8 +92,9 @@ padding: 20px;
 		border: 1px black solid;
 		padding: 20px;
 		float: right;
-		width: 31%;
+		width: 35%;
 	}
+
 
 
 .clearfix:after{
@@ -105,12 +106,26 @@ padding: 20px;
 	height: 0;
 }
 
+.harshan {
+
+}
+
 @media (max-width: 768px) {
 	h1 {font-family: 'Fira Sans', sans-serif;
-	font-size: 2em;
+	font-size: 2.5em;
 	color: red;
 	font-variant: small-caps;
 	text-align: center;
 	}
+	#test1 {
+	font-size: 1em;
+	color: blue;
+	font-family: 'Arvo', Serif;}
+	p {font-size: .8em
+		width: ;}
+		.harshan {
+	width: 30%;
+	margin: auto;}
+
 }
 
